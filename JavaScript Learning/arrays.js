@@ -8,3 +8,4 @@ console.log(typeof(arr)); // array type is object
 // Dynamic Creation - using Array() constructor.
 let arr2 = new Array(1,2,3);
 console.log(arr2);
+
